@@ -1,0 +1,2 @@
+^(.*)\.(.*)\t(.*)\.(.*) \([A-Z].*( \(.*\))*\)$
+{"type":"$1", "fieldName":"$2", "databaseType":"$3", "databaseRepresentation":"$4"},

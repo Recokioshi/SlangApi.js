@@ -1,0 +1,392 @@
+[
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField10",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD10"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField2",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD2"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField3",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD3"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField4",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD4"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField5",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD5"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField6",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD6"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField7",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD7"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField8",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD8"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "dictionaryField9",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DIC_FIELD9"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "draftId",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "DRAFT_ID"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "endDate",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "END_DATE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "endTime",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "END_TIME"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "expiryDate",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "EXPIRY_DATE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "expiryDeadline",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "EXPIRY_DEADLINE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "expiryTime",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "EXPIRY_TIME"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "freeDate1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "FREE_DATE1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "freeTime1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "FREE_TIME1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "friday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "FRIDAY"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "id",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "integerField1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "INT_FIELD1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "integerField2",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "INT_FIELD2"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "integerField3",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "INT_FIELD3"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "integerField4",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "INT_FIELD4"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "integerField5",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "INT_FIELD5"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "lastStatusLocation",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "LAST_STATUS_LOCATION"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "lockDeadline",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "LOCK_DEADLINE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "lockedByUser",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "LOCKED_BY_USER"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "monday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "MONDAY"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "numericField1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "NUM_FIELD1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "numericField2",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "NUM_FIELD2"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "numericField3",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "NUM_FIELD3"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "numericField4",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "NUM_FIELD4"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "numericField5",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "NUM_FIELD5"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "parentId",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "PARENT_ID"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "place1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "PLACE1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "place2",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "PLACE2"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "placeDict1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "PLACE_DICT1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "placeDict2",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "PLACE_DICT2"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "placeDict3",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "PLACE_DICT3"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference1",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE1"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference10",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE10"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference2",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE2"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference3",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE3"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference4",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE4"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference5",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE5"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference6",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE6"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference7",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE7"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference8",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE8"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "reference9",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "REFERENCE9"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "saturday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "SATURDAY"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "solutionId",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "SOLUTION_ID"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "startDate",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "START_DATE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "startTime",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "START_TIME"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "state",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "STATE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "sunday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "SUNDAY"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "thursday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "THURSDAY"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "tuesday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "TUESDAY"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "type",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "TYPE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "validFromDate",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "VALID_FROM_DATE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "validFromTime",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "VALID_FROM_TIME"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "validToDate",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "VALID_TO_DATE"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "validToTime",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "VALID_TO_TIME"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "version",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "VERSION"
+  },
+  {
+    "type": "TslotDataProxy",
+    "fieldName": "wednesday",
+    "databaseType": "TSLOT",
+    "databaseRepresentation": "WEDNESDAY"
+  }
+]

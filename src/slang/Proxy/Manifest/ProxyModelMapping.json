@@ -1,0 +1,1142 @@
+[
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "additionalAddress",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "arrivalDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ARRIVAL_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "arrivalTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ARRIVAL_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportArrivalDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_ARRIVAL_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportArrivalTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_ARRIVAL_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "atdDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ATD_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "atdTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ATD_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "bolNr",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "BOL_NO"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "carrierCompany",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "creationDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CDATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "checkbox10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CHECKBOX10"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "creatorCompany",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFContainerDataProxy",
+    "fieldName": "containerNr",
+    "databaseType": "MFCONTAINER",
+    "databaseRepresentation": "CONTAINER_NO"
+  },
+  {
+    "type": "MFContainerDataProxy",
+    "fieldName": "containerId",
+    "databaseType": "MFCONTAINER",
+    "databaseRepresentation": "REF_ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "currency10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CURRENCY10"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "currentLocationAddress",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference1",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE1"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference2",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE2"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference3",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE3"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference4",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE4"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference5",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE5"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference6",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE6"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference7",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE7"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference8",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE8"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "custReference9",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "CUST_REFERENCE9"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "date10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DATE10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "declaredPackagesQuantity",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DECLARED_PKG_QUANT"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "declaredPackagesVolume",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DECLARED_PKG_VOL"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "declaredPackagesWeight",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DECLARED_PKG_WGHT"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "deliveryAddress",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "departureDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DEPARTURE_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "departureTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DEPARTURE_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary1",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT1"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary2",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT2"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary3",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT3"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary4",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT4"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary5",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT5"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary6",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT6"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary7",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT7"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary8",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT8"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary9",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT9"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary11",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT11"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary12",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT12"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary13",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT13"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary14",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT14"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary15",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT15"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary16",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT16"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary17",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT17"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary18",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT18"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary19",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT19"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "freeTextDictionary20",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT20"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "dispatcherCompany",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportCreationDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_CDATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportExists",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_EXISTS"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportRemarks",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_REMARKS"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportUserName",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_USER_FNAME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportUserId",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_USER_ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "discrepancyReportUserSurname",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "DR_USER_SNAME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "ediLock",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "EDI_LOCK"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "externalId",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "EXTERNAL_ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "externalId2",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "EXTERNAL_ID2"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "id",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "intNumber10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "INTNUMBER10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "lastStatusLocation",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LAST_STATUS_LOCATION"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "loadingDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LOADING_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "loadingTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LOADING_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "loadingType",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LOADING_TYPE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "locationStatus",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LOCATION_STATUS"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "longReference10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "LREFE10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "lastModificationDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "MDATE"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "modifierCompany",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "onHold",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ON_HOLD"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "pickUpAddress",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "packagesQuantity",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "PKG_QUANT"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "packagesVolume",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "PKG_VOL"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "packagesWeight",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "PKG_WGHT"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "portOfArrival",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "PORT_OF_ARRIVAL"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "portOfDeparture",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "PORT_OF_DEPARTURE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "realNumber10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REALNUMBER10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "reasonLast",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REASON_LAST"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "recalculate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "RECALCULATE"
+  },
+  {
+    "type": "ComplexManifestProxy",
+    "fieldName": "receivingAgentCompany",
+    "databaseType": "MFADDRESS",
+    "databaseRepresentation": "ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "reference",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "REFERENCE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "routeId",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "ROUTE_ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "sendDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SDATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "serviceId",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SERVICE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "shortReference10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "SREFE10"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "state",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "STATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "statusDateLast",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "STATUS_DATE_LAST"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "statusLast",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "STATUS_LAST"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "statusSystemDateLast",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "STATUS_SYSTEM_DATE_LAST"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time01",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME01"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time02",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME02"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time03",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME03"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time04",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME04"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time05",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME05"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time06",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME06"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time07",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME07"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time08",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME08"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time09",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME09"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "time10",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TIME10"
+  },
+  {
+    "type": "MFTrailerDataProxy",
+    "fieldName": "trailerId",
+    "databaseType": "MFTRAILER",
+    "databaseRepresentation": "REF_ID"
+  },
+  {
+    "type": "MFTrailerDataProxy",
+    "fieldName": "trailerNr",
+    "databaseType": "MFTRAILER",
+    "databaseRepresentation": "TRAILER_NO"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportChain",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_CHAIN"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportCost",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_COST"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportCostCurrency",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_COST_CURRENCY"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportDepartament",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_DEPARTAMENT"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportDistance",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_DISTANCE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportId",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_ID"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportSpecial",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_SPECIAL"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "transportState",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TRANSPORT_STATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "type",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "TYPE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "upsAccountNo",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "UPS_ACCOUNTNO"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "upsBookingNr",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "UPS_BOOKINGNO"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "upsPageNr",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "UPS_PAGENO"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "userId",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "USER_ID"
+  },
+  {
+    "type": "MFVehicleDataProxy",
+    "fieldName": "vehicleId",
+    "databaseType": "MFVEHICLE",
+    "databaseRepresentation": "REF_ID"
+  },
+  {
+    "type": "MFVehicleDataProxy",
+    "fieldName": "vehicleSubType",
+    "databaseType": "MFVEHICLE",
+    "databaseRepresentation": "SUBTYPE"
+  },
+  {
+    "type": "MFVehicleDataProxy",
+    "fieldName": "vehicleLength",
+    "databaseType": "MFVEHICLE",
+    "databaseRepresentation": "LENGTH"
+  },
+  {
+    "type": "MFVehicleDataProxy",
+    "fieldName": "vehicleNr",
+    "databaseType": "MFVEHICLE",
+    "databaseRepresentation": "VEHICLE_NO"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "vesselArrivalDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "VESSEL_ARRIVAL_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "vesselArrivalTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "VESSEL_ARRIVAL_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "vesselDepartureDate",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "VESSEL_DEPARTURE_DATE"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "vesselDepartureTime",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "VESSEL_DEPARTURE_TIME"
+  },
+  {
+    "type": "MFDocumentDataProxy",
+    "fieldName": "vesselName",
+    "databaseType": "MFDOCUMENT",
+    "databaseRepresentation": "VESSEL_NAME"
+  }
+]

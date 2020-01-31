@@ -1,0 +1,25 @@
+{
+  "name": "slangapijs",
+  "version": "1.0.0",
+  "description": "Package that allows to run simulation of Slang api with real connection to oracle db from local node enviroment",
+  "main": "./out/main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Adrian Gaik",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^25.1.1",
+    "@types/node": "^13.5.1",
+    "@types/oracledb": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "fs": "^0.0.1-security",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "oracledb": "^4.2.0",
+    "typescript": "^3.7.5"
+  }
+}

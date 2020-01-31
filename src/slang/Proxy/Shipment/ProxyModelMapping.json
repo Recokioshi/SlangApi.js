@@ -1,0 +1,2294 @@
+[
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "optionalCollectionAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ABHOLADRESSE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "optionalReceiverAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ABWEMPFADRESSE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "aeNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "AE_NR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "akmNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "AKM_NR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "deliveredBy",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ANLIEFERUNG_DURCH"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "numberOfLoadingPositions",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ANZAHL_STELLPLATZE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "arrangeDelivery",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ARRANGE_DELIVERY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "asnShipment",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ASN_SHIPMENT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "bookingReason",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "BOOKING_REASON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "bookingStatus",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "BOOKING_STATUS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cashOnDeliveryThirdParty",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CASH_ON_DELIVERY_TPARTY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cashOnPlace",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CASH_ON_ORT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cepDocumentId",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CEP_DOCUMENT_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cepServiceCode",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CEP_SERVICE_CODE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cepServiceName",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CEP_SERVICE_NAME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cepServiceOptions",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CEP_SERVICE_OPTIONS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "checkbox10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CHECKBOX10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cashOnDeliveryThirdPartyCountry",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "COD_TP_COUNTRY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "completeDelivery",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "COMPLETE_DELIVERY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "consigneeSeaport",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CONSIGNEE_SEAPORT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "consolidated",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CONSOLIDATED"
+  },
+  {
+    "type": "ComplexShipmentProxy",
+    "fieldName": "controltowerCompanies",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CONTROLTOWER_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "ctaDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CTA_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "currentLocation",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CURRENT_LOCATION"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "currShipmentId",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CURRSHIPMENTID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsEUR1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_EUR1_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsNoPreference",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_NO_PREF_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE1"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference4",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE4"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference5",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE5"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference6",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE6"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference7",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE7"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference8",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE8"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "custReference9",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REFERENCE9"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsRemarks",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_REMARKS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsCertificateOfOrigin",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUST_URSPR_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customerVersionModDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUSTOMER_VERSION_MOD_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customerVersion",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUSTOMER_VERSION"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customerVersionDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CUSTOMER_VERSION_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "date10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DATE10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "ataDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ATA_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "atdDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ATD_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "completionDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "COMPLETION_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "creationDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CREATION_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "lastModificationDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SDATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "receiptDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RECEIPT_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "receiptDateTo",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RECEIPT_DATE_BIS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedReceiptDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_RECEIPT_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedSupplyDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_SUPPLY_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "supplyDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SUPPLY_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "supplyDateTo",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SUPPLY_DATE_BIS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "delay",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DELAY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "delayReason",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DELAY_REASON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "delayStatusFlag",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DELAY_STATUS_FLAG"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cashOnDelivery",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CASH_ON_DELIVERY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "deliveryInstruction",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DELIVERY_INSTR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "departureSeaport",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DEPARTURE_SEAPORT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "detachedReason",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DETACHED_REASON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "detachedStatus",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DETACHED_STATUS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "dangergoodsLanguage",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DG_LANGUAGE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT1"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary11",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT11"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary12",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT12"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary13",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT13"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary14",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT14"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary15",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT15"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary16",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT16"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary17",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT17"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary18",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT18"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary19",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT19"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary20",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT20"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary21",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT21"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary22",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT22"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary23",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT23"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary24",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT24"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary25",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT25"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary26",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT26"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary27",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT27"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary28",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT28"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary29",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT29"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary30",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT30"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary31",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT31"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary32",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT32"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary33",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT33"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary34",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT34"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary35",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT35"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary36",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT36"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary37",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT37"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary38",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT38"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary39",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT39"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary4",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT4"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary40",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT40"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary41",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT41"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary42",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT42"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary43",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT43"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary44",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT44"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary45",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT45"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary46",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT46"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary47",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT47"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary48",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT48"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary49",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT49"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary5",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT5"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary50",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT50"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary6",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT6"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary7",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT7"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary8",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT8"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextDictionary9",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIC_FREE_TEXT9"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "directLoading",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DIR_LOAD_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "distributionCode",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DISTRIBUTION_CODE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "documents",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DOCUMENTS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "draftName",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DRAFT_NAME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "destinationAirport",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "EMPF_FLUGHAFEN"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "etaDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ETA_DATUM"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "EUR1Nr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "EUR1_ID_NO"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "externalDocExists",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "EXTERNAL_DOC_EXISTS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "finalDestReachedFlag",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FINAL_DEST_REACHED_FLAG"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "flightNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FLUG_NR"
+  },
+  {
+    "type": "ComplexShipmentProxy",
+    "fieldName": "forwarderCompany",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SCOMPID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "chargeableWeight",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FRACHT_PFLICHT_GEWICHT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freight",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FREIGHT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeText1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FTX1"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeText2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FTX2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeText3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FTX3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "freeTextLanguage",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "FTX_LANGUAGE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "dangerGoodsLabel",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "GEFAHRGUT_KZ"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "goodCategory",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "GOODCATEGORY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "goodsAreDocuments",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "GOODSAREDOCUMENTS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "goodsDescription",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "GOODSDESCRIPTION"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "hawbNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "HAWB_NR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "id",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SHIPMENTID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "insuranceCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INS_CURRENCY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "insurance",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INSURANCE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "intNumber10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "INTNUMBER10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "labelForm",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LABEL_FORM"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "lastStatusLocation",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LAST_STATUS_LOCATION"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "senderName",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VNAME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "lcNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LC_NR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "linkParameter",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LINK_PARAMETER"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsLoadingMeters",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_LM"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "loadingType",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LOADING_TYPE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "locationStatus",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LOCATION_STATUS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference11",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE11"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference12",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE12"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference13",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE13"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference14",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE14"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference15",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE15"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference16",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE16"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference17",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE17"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference18",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE18"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference19",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE19"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference20",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE20"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference21",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE21"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference22",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE22"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference23",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE23"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference24",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE24"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "longReference25",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "LREFE25"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "mawbNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "MAWB_NR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "missingTschedReason",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "MISSING_TSCHED_REASON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "missingTschedStatus",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "MISSING_TSCHED_STATUS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "monitorState4",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "MONITOR_STATE4"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "COD",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NACHNAHME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "nahverkehrsTourNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NAHVERKEHRS_TOUR_NR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "neutralize",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NEUTRAL_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "neutralAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NEUTRALVERSADRESSE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "CODCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NN_CURRENCY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "notifyAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NOTIFYADRESSE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "notifyAddress2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NOTIFYADRESSE2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "nptaDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NPTA_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "onHold",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ON_HOLD"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "packerAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PACKER_ADDRESS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsPayableLoadingMeters",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_PAYABLE_LM"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsPayableLoadingMeters2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_PAYABLE_LM_2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "receiptSpecification",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RECEIPT_SPEC"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "PODBarcode",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PODBARCODE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "PODQuantity",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PODQUANTITY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "PODReason",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PODREASON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "PODStatus",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PODSTATUS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsDimWeight",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_DIMWEIGHT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsLiter",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_GSLITRE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "preferredDelivery",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PREFERRED_DELIVERY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "priority",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PRIORITY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "problemWithDeliveryReason",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PROBLEM_WITH_DELIVERY_REASON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "problemWithDeliveryStatus",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PROBLEM_WITH_DELIVERY_STATUS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "propagationDeactivated",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "PROPAGATION_DEACTIVATED"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsQuantity",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_QUANT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "declaredPositionsQuantity",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DECLARED_POS_QUANT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "realNumber10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REALNUMBER10"
+  },
+  {
+    "type": "ShipmentAddressDataProxy",
+    "fieldName": "administrativeRegion",
+    "databaseType": "SHIPMENTADDRESS",
+    "databaseRepresentation": "ADM_REGION"
+  },
+  {
+    "type": "ShipmentAddressDataProxy",
+    "fieldName": "country",
+    "databaseType": "SHIPMENTADDRESS",
+    "databaseRepresentation": "COUNTRY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "receiverAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RECEIVER_ADDRESS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "billingAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RECHNUNGSADRESSE"
+  },
+  {
+    "type": "ShipmentAddressDataProxy",
+    "fieldName": "zipCode",
+    "databaseType": "SHIPMENTADDRESS",
+    "databaseRepresentation": "ZIPCODE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "typeOfReference",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REFE_QUAL"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "reference1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REFERENCE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "reference2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REFERENCE2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "reference3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REFERENCE3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "reference4",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REFERENCE4"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedReceiptSpecification",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_RECEIPT_SPEC"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedSupplySpecification",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_SUPPLY_SPEC"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "returnDocuments",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RETURN_DOCUMENTS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "route",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ROUTE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "saturdayDelivery",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SATURDAY_DELIVERY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "saturdayPickup",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SATURDAY_PICKUP"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "selfWithdraw",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SELFWITHDRAW"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "selfReceipt",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SELFRECEIPT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "senderAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SENDER_ADDRESS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "sendDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SENT_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "serverName",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SERVER_NAME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "service",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SERVICE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "dangerGoodsDeclaration",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SHIP_DECLARATIONS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "senderCompany",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VCOMPID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shippingLine",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SHIPPING_LINE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "slvs",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SLVS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "solutionId",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SOLUTION_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "spedShipmentId",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SPED_SHIPMENT_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference11",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE11"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference12",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE12"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference13",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE13"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference14",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE14"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference15",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE15"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference16",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE16"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference17",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE17"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference18",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE18"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference19",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE19"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference20",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE20"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference21",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE21"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference22",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE22"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference23",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE23"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference24",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE24"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "shortReference25",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SREFE25"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "stackable",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STAPELBAR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "state3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATE3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "monitorState3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "MONITOR_STATE3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "state4",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATE4"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "state",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "statusDateLast",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATUS_DATE_LAST"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "statusLast",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATUS_LAST"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "statusSystemDateLast",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATUS_SYSTEM_DATE_LAST"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "stoppageTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STOPPAGE_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "supplierNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SUPPLIER_NO"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "supplySpecification",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SUPPLY_SPEC"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "systemCreateDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SYS_CREATE_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "systemLastModificationDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SYS_MOD_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "templateType",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TEMPLATE_TYPE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time01",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME01"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time02",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME02"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time03",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME03"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time04",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME04"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time05",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME05"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time06",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME06"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time07",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME07"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time08",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME08"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time09",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME09"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "time10",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TIME10"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "ataTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ATA_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "atdTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ATD_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "completionTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "COMPLETION_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "ctaTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "CTA_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "nptaTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "NPTA_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "receiptTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "RECEIPT_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedReceiptTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_RECEIPT_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedReceiptTimeTo",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_RECEIPT_TIME_BIS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedSupplyTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_SUPPLY_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "requestedSupplyTimeTo",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REQ_SUPPLY_TIME_BIS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "supplyTime",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "SUPPLY_TIME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "toleranceLevel1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TOLERANCE_LEVEL_1"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "toleranceLevel2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TOLERANCE_LEVEL_2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "toleranceLevel3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TOLERANCE_LEVEL_3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "tourNrSequence",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TOUR_NR_REIHENFOLGE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "reasonLast",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "REASON_LAST"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "statusLast",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "STATUS_LAST"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "transportAddress",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TRANSPORT_ADDRESS"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "transportStage",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TRANSPORT_STAGE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "transportVehicle",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TRANSPORT_VEHICLE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "transportState",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TRANSPORT_STATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "transportInsurance",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TRNSP_INSUR_ID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "typeofDocument",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TYPE_OF_DOC"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "type",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "TYPE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "upsAccount",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "UPS_ACCOUNT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "upsBilling",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "UPS_BILLING"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "upsCOD",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "UPS_COD"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "upsDocType",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "UPS_DOCTYPE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "upsPostalCode",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "UPS_POSTALCODE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "certificateOfOriginNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "URSPR_ID_NO"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "valid",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VALID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "senderEmail",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VEMAIL"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "agreedRate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VEREINBARTE_FRACHT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "agreedRateCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VEREINBARTE_FRACHT_CURR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "remarks1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "remarks2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKE2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "remarks3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKE3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "remarksDictionary2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKE_ID2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "remarksDictionary3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKE_ID3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "remarksDictionary1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKE_ID1"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "additionalRemarks1",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKEZUS1"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "additionalRemarks2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKEZUS2"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "additionalRemarks3",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VERMERKEZUS3"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "vesselDepartureDate",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VESSEL_DEPARTURE_DATE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "vesselName",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VESSEL_NAME"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "senderFax",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VFAX"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsVolume",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_VOL"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "declaredPositionsVolume",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DECLARED_POS_VOL"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "voyageNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VOYAGE_NO"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "senderPhoneNr",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "VPHONE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cargoValueCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "WAREN_VAL_CURRENCY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "cargoValue",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "WARENWERT_VALUE"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "positionsWeight",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "POS_WGHT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "declaredPositionsWeight",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "DECLARED_POS_WGHT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "wholeValid",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "WHOLE_VALID"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "worth",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "WORTH"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "worthCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "WORTH_CURRENCY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "paymentType",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZAHLUNGSART"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "zoll",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZOLL"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsCargoCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZOLLWAREN_CURRENCY"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsCargoValue",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZOLLWARENWERT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsValue",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZOLLWERT"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "customsValueCurrency",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZOLLWERT_CURR"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "toTheDebitOf",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZU_LASTEN_VON"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "addService",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZUSATZ_DIENSTLEISTUNG"
+  },
+  {
+    "type": "ShipmentDataProxy",
+    "fieldName": "additionalService2",
+    "databaseType": "SHIPMENT",
+    "databaseRepresentation": "ZUSATZ_DIENSTLEISTUNG2"
+  }
+]
