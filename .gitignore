@@ -12,3 +12,6 @@ yarn-error.log*
 
 # company data structure
 /src/assets/*
+
+# builds
+/out/
