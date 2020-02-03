@@ -1,7 +1,7 @@
 import { exceptions } from '../../common/exceptions';
 import { ArrayList } from '../java.util/ArrayList';
 import { restricted } from './restricted';
-import standardApiQuerries from './SlangApiStandardDatabaseQuerries';
+import standardApiQuerries from '../../assets/SlangApiStandardDatabaseQuerries';
 import { FunctionInvoker } from './FunctionInvoker';
 import { Log } from './Log';
 import { LongListProxy } from '../Proxy/LongListProxy';
@@ -13,7 +13,7 @@ import { GeneralSQLRow } from '../SQL Api/GeneralSQLRow';
 import { ComplexTslotListProxy } from '../Proxy/Timeslot/ComplexTslotListProxy';
 import { ComplexManifestListProxy } from '../Proxy/Manifest/ComplexManifestListProxy';
 import { UserInfoDataProxy } from '../Proxy/UserInfoDataProxy';
-const { groupId, companyId, solutionId, loggedInUser } = require('../../../constants.json');
+const { groupId, companyId, solutionId, loggedInUser } = require('../../assets/constants.json');
 
 const callStandardApiFunctionSqlQuerryWithParams = (query: string, params: any[]) => {
   const paramsAsArrayList = new ArrayList(params);

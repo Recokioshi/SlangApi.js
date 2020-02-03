@@ -1,5 +1,5 @@
 import { decorateObjectWithGetterAndSetter } from '../../common/webFormDecorator';
-const loadedWebForm = require('../../../webForm.json');
+const loadedWebForm = require('../../assets/webForm.json');
 
 type ISingleWebFormObject = string | number | Object;
 

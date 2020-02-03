@@ -1,10 +1,9 @@
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
         function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
         function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
@@ -38,6 +37,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
+var _this = this;
 exports.__esModule = true;
 var oracledb_1 = __importDefault(require("oracledb"));
 var dbconfig_1 = __importDefault(require("./dbconfig"));
@@ -49,7 +49,7 @@ var exceptions_1 = require("../common/exceptions");
  * @return {Promise<oracledb.Connection>} promise with db connection
  * @throws exception when connection is not established
  */
-var getDbConnection = function () { return __awaiter(void 0, void 0, void 0, function () {
+var getDbConnection = function () { return __awaiter(_this, void 0, void 0, function () {
     var err_1;
     return __generator(this, function (_a) {
         switch (_a.label) {
@@ -72,7 +72,7 @@ var getDbConnection = function () { return __awaiter(void 0, void 0, void 0, fun
  * @return {Promise<void>} promise to resolve after connection is closed
  * @throws exception when closing connection fails
  */
-var closeDbConnection = function (connection) { return __awaiter(void 0, void 0, void 0, function () {
+var closeDbConnection = function (connection) { return __awaiter(_this, void 0, void 0, function () {
     return __generator(this, function (_a) {
         if (connection) {
             try {
@@ -93,7 +93,7 @@ var closeDbConnection = function (connection) { return __awaiter(void 0, void 0,
  * @return {Promise<Object[] | null>} promise with sql query result
  * @throws exception when query execution fails, or when db connection was not opened before query
  */
-var executeDbQuery = function (connection, query) { return __awaiter(void 0, void 0, void 0, function () {
+var executeDbQuery = function (connection, query) { return __awaiter(_this, void 0, void 0, function () {
     var sql, binds, options, result, err_2;
     return __generator(this, function (_a) {
         switch (_a.label) {
@@ -122,7 +122,7 @@ var executeDbQuery = function (connection, query) { return __awaiter(void 0, voi
  * @return {Promise<Object[] | null>} promise with sql query result
  * @throws exceptions from opening db connection, query execution or closing db connection
  */
-exports.callDb = function (query) { return __awaiter(void 0, void 0, void 0, function () {
+exports.callDb = function (query) { return __awaiter(_this, void 0, void 0, function () {
     var connection, response;
     return __generator(this, function (_a) {
         switch (_a.label) {

@@ -1,11 +1,4 @@
 "use strict";
-var __spreadArrays = (this && this.__spreadArrays) || function () {
-    for (var s = 0, i = 0, il = arguments.length; i < il; i++) s += arguments[i].length;
-    for (var r = Array(s), k = 0, i = 0; i < il; i++)
-        for (var a = arguments[i], j = 0, jl = a.length; j < jl; j++, k++)
-            r[k] = a[j];
-    return r;
-};
 exports.__esModule = true;
 var webForm_1 = require("../slang/Slang API/webForm");
 var capitalizeFirstLetter = function (key) { return ({
@@ -34,10 +27,13 @@ var addGetterAndSetterToObject = function (decoratedObject) { return function (p
             break;
         case 'object':
             if (Array.isArray(field)) {
-                decoratedObject[propName.original] = new webForm_1.WebFormCollection(__spreadArrays(field).map(function (elemInField) {
+                decoratedObject[propName.original] = new webForm_1.WebFormCollection(field.slice().map(function (elemInField) {
                     return exports.decorateObjectWithGetterAndSetter(elemInField);
                 }));
                 addGetterToObject(decoratedObject, propName);
+            }
+            else if (field === null) {
+                addGetterAndSetterToSimpleType(decoratedObject, propName);
             }
             else {
                 addGetterToObject(decoratedObject, propName);

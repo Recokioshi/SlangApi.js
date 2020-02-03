@@ -12,7 +12,7 @@ var __assign = (this && this.__assign) || function () {
 };
 exports.__esModule = true;
 var webFormDecorator_1 = require("../../common/webFormDecorator");
-var loadedWebForm = require('../../../webForm.json');
+var loadedWebForm = require('../../assets/webForm.json');
 var WebFormCollection = /** @class */ (function () {
     function WebFormCollection(dataSource) {
         this.collectionDataSource = dataSource;

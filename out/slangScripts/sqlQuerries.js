@@ -1,10 +1,9 @@
 "use strict";
 var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, generator) {
-    function adopt(value) { return value instanceof P ? value : new P(function (resolve) { resolve(value); }); }
     return new (P || (P = Promise))(function (resolve, reject) {
         function fulfilled(value) { try { step(generator.next(value)); } catch (e) { reject(e); } }
         function rejected(value) { try { step(generator["throw"](value)); } catch (e) { reject(e); } }
-        function step(result) { result.done ? resolve(result.value) : adopt(result.value).then(fulfilled, rejected); }
+        function step(result) { result.done ? resolve(result.value) : new P(function (resolve) { resolve(result.value); }).then(fulfilled, rejected); }
         step((generator = generator.apply(thisArg, _arguments || [])).next());
     });
 };
@@ -35,15 +34,16 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
         if (op[0] & 5) throw op[1]; return { value: op[0] ? op[1] : void 0, done: true };
     }
 };
+var _this = this;
 exports.__esModule = true;
 var restricted_1 = require("../slang/Slang API/restricted");
 var ArrayList_1 = require("../slang/java.util/ArrayList");
-exports.runQuery = function (id) { return __awaiter(void 0, void 0, void 0, function () {
+exports.runQuery = function (num) { return __awaiter(_this, void 0, void 0, function () {
     var params, query;
     return __generator(this, function (_a) {
         params = new ArrayList_1.ArrayList();
-        query = "SELECT * FROM WOADM.TSLOT WHERE ID = ?";
-        params.add(id);
+        query = "SELECT SYSDATE as CURRENT_TIME, ? as MY_NUMBER FROM DUAL";
+        params.add(num);
         return [2 /*return*/, restricted_1.restricted.generalSQL(query, params)];
     });
 }); };
