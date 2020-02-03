@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/out
 
 # misc
 .env
@@ -14,4 +15,4 @@ yarn-error.log*
 /src/assets/*
 
 # builds
-/out/
+
